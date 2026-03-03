@@ -12,3 +12,4 @@ hehehe hehehe heeheh
 
 '''
 print("hello, \"i am iron man\" ") # \" gives " in the output
+print(''' hi,  vish esh ''') # tripe quote print it as it is
